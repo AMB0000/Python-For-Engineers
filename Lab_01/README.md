@@ -4,8 +4,7 @@
 
 Ran `sanity_check.py` successfully. Plot generated below.
 
-![Part 1 Plot](part1_plot.png)
-
+![Part 1 Plot](https://raw.githubusercontent.com/AMB0000/Python-For-Engineers/77ada15b0430e6c7e8b95094ed1ef74b8fa860a5/Lab_01/Screenshots/Screenshot%202026-04-01%20082636.png)
 ---
 
 ## Part 2 — Modified Signal
@@ -16,8 +15,7 @@ Edited the script to use frequency = 2 and noise level = 0.5:
 y = np.sin(2*x) + 0.5*np.random.randn(len(x))
 ```
 
-![Part 2 Plot](part2_plot.png)
-
+![Part 2 Plot](https://raw.githubusercontent.com/AMB0000/Python-For-Engineers/2d85b9efcba032fc4f0d499ccc1eea2cbdc3d1c8/Lab_01/Screenshots/part2_notitle.png)
 ---
 
 ## Reflection
