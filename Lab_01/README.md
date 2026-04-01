@@ -19,4 +19,4 @@ y = np.sin(2*x) + 0.5*np.random.randn(len(x))
 
 ## Reflection
 
-Noise adds random fluctuations to the signal, making it harder to identify the clean underlying waveform. Increasing the frequency compresses the sine wave, producing more cycles over the same x-range. High noise combined with high frequency would make the data very difficult to analyze since individual cycles become indistinguishable from the random variation. Filtering or averaging techniques would be needed to recover the true signal in that case.
+Noise causes the signal to fluctuate randomly, making it more difficult to recognize the pure waveform. When you raise the frequency, the sine wave gets squashed, which means there are more cycles over the same x-range. When high frequency and high noise are combined, individual cycles become indistinguishable from random variation, making analysis of the data extremely challenging. In that case, filtering or averaging would have to be used to get the real signal back.
