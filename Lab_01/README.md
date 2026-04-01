@@ -4,8 +4,7 @@
 
 Ran `sanity_check.py` successfully. Plot generated below.
 
-![Part 1 Plot](https://raw.githubusercontent.com/AMB0000/Python-For-Engineers/77ada15b0430e6c7e8b95094ed1ef74b8fa860a5/Lab_01/Screenshots/Screenshot%202026-04-01%20082636.png)
----
+<img src="https://raw.githubusercontent.com/AMB0000/Python-For-Engineers/77ada15b0430e6c7e8b95094ed1ef74b8fa860a5/Lab_01/Screenshots/Screenshot%202026-04-01%20082636.png" width="600">---
 
 ## Part 2 — Modified Signal
 
