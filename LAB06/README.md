@@ -41,5 +41,5 @@ print(f'Total chocolates detected: {len(chocolates)}')
 
 ### Output
 
-
+![Alt text]([https://link-to-your-image.com/image.png](https://github.com/AMB0000/Python-For-Engineers/blob/b9e2bab2eee493fb3fcc223f1db3494f64d58426/LAB06/CHOCO_FINAL.png))
 
